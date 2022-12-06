@@ -16,6 +16,3 @@ function addTask(e){
   li.appendChild(btn)
 }
 
-function handleDelete(e){
-  e.target.parentNode.remove()
-}
